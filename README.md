@@ -1,1 +1,3 @@
-<h2>PHP Learning Code Repository.</h2>
+<h2>PHP Learning Codes!</h2>
+Hi everyone,<br>
+This is my PHP learning codes repository.
